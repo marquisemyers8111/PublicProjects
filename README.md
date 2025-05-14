@@ -48,7 +48,7 @@ Leverage my 5 years of IT support experience-including troubleshooting, system a
 </div>
 
 ## Certifications
-<a href="https://www.linkedin.com/in/marquisemyers/" target="_blank">
+<a href="https://www.credly.com/badges/a26ca532-f979-4997-b462-328e3cd0ec5f/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
 </a>
 
