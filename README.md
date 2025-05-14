@@ -44,7 +44,7 @@ Leverage my 5 years of IT support experience-including troubleshooting, system a
 </div>
 
 ## Certifications
-<div>
+
 [![CompTIA Security+ Badge](https://images.credly.com/size/340x340/images/8e3e0a44-2ad2-4b6a-8b6f-3f0a5d2e2b3e/image.png)](https://www.credly.com/badges/a26ca532-f979-4997-b462-328e3cd0ec5f/linked_in_profile)
 
 </div>
