@@ -5,7 +5,7 @@
 IT professional with years of experience and expertise in enterprise systems administration, cybersecurity, and technical support. Skilled in managing and securing IT environments, optimizing system performance, and delivering seamless end-user support. Adept at troubleshooting complex technical issues, managing enterprise software tools, and enhancing operational efficiencies. Proven ability to collaborate with cross-functional teams. 
 
 ## Objective
-
+[![View My Credly Badge](https://images.credly.com/size/340x340/images/8e3e0a44-2ad2-4b6a-8b6f-3f0a5d2e2b3e/image.png)](https://www.credly.com/badges/a26ca532-f979-4997-b462-328e3cd0ec5f/linked_in_profile)
 
 Leverage my 5 years of IT support experience-including troubleshooting, system administration, and user support-to transition into a Security Operations Center (SOC) Analyst role, where I can apply my technical skills and foundational IT knowledge to proactively monitor, detect, and respond to cybersecurity threats while continuing to grow in the field of cybersecurity
 
