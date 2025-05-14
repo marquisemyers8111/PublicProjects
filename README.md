@@ -1,5 +1,5 @@
 # Hello, I'm Marquise M
-<a href="https://linkedin.com"><img src="https://www.linkedin.com/in/marquisemyers/&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![LinkedIn - Marquis E. Myers](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/marquisemyers/)
 
 
 IT professional with years of experience and expertise in enterprise systems administration, cybersecurity, and technical support. Skilled in managing and securing IT environments, optimizing system performance, and delivering seamless end-user support. Adept at troubleshooting complex technical issues, managing enterprise software tools, and enhancing operational efficiencies. Proven ability to collaborate with cross-functional teams. 
